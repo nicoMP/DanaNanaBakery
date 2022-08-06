@@ -1,0 +1,25 @@
+{
+  "name": "danananabakery",
+  "version": "1.0.0",
+  "description": "A Website for a bakery",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon server/server.js -w server -w static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoMP/DanaNanaBakery.git"
+  },
+  "keywords": [
+    "WebApp",
+    "Dynamic",
+    "Single",
+    "Page"
+  ],
+  "author": "Nicolas Mateus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoMP/DanaNanaBakery/issues"
+  },
+  "homepage": "https://github.com/nicoMP/DanaNanaBakery#readme"
+}
